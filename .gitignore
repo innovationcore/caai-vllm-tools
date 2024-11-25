@@ -1,0 +1,42 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment and dependencies
+env/
+venv/
+*.egg-info/
+*.eggs/
+dist/
+build/
+pip-wheel-metadata/
+
+# Editor and IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+*~
+.DS_Store
+
+# Logs and runtime files
+*.log
+*.pid
+*.out
+*.err
+
+# Test and coverage files
+.tox/
+.nox/
+.coverage
+coverage.xml
+*.cover
+htmlcov/
+
+# Build artifacts
+*.wheel
+*.tar.gz
+*.zip
+*.whl
